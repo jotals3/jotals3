@@ -1,4 +1,16 @@
-## Hi there 👋
+### whoami
+```
+Cybersecurity and privacy enthusiast.
+Computer Science student @FIB-UPC.
+
+  > Currently conducting research and working on the development of LLM powered agents for use
+    in the field of cybersecurity.
+```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,docker,git,arch,debian,bsd" />
+  </a>
+</p>
 
 <!--
 **jotals3/jotals3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
