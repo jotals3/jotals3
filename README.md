@@ -1,4 +1,4 @@
-### whoami
+### <em>$</em> whoami
 ```
 Cybersecurity and privacy enthusiast.
 Computer Science student @FIB-UPC.
@@ -8,7 +8,7 @@ Computer Science student @FIB-UPC.
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,git,arch,debian,bsd" />
+    <img src="https://skillicons.dev/icons?i=py,docker,bash,git,gitlab,github,arch,debian,bsd" />
   </a>
 </p>
 
