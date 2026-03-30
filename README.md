@@ -1,14 +1,11 @@
-### <em>$</em> whoami
 ```
-Cybersecurity and privacy enthusiast.
-Computer Science student @FIB-UPC.
+Cybersecurity Master's student @ UPC BarcelonaTech.
+Focusing on mobile security, OS internals, and application reverse engineering.
+```
 
-  > Currently conducting research and working on the development of LLM powered agents for use
-    in the field of cybersecurity.
-```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,bash,git,gitlab,github,arch,debian,bsd" />
+    <img src="https://skillicons.dev/icons?i=py,bash,docker,git,linux,apple,androidstudio,bsd" />
   </a>
 </p>
 
